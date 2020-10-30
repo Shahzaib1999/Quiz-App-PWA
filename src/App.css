@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background-image: url("https://i.pinimg.com/originals/b0/28/a2/b028a2493053bcd5537605a92d15593e.jpg");
+  background-image: url("./assets/images/bg.jpg");
   background-size: cover;
   display: grid;
 }
